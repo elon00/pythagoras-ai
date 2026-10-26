@@ -1,0 +1,14 @@
+{
+  "project": "pythagoras-ai",
+  "network": "Solana Devnet",
+  "cluster_url": "https://api.devnet.solana.com",
+  "mint_address": "Ei1zkV4tqvA2uBuQJWvAAsrUk1NtskQvAPKndGeN4EDX",
+  "vault_account": "6dBt2TcpFxXWSiVsbY59sNcwQer3XK6sYcYnoSGT33i5",
+  "initial_supply": 1000000,
+  "decimals": 9,
+  "creation_tx": "h1FdYoNe4N9aCzjwoaQ983E7JgM2Q3jFBirmqRMYX8HR6KA8ymhzGqudxrVDyiwaGQfS6uQkt6V6CDoQSaEirjF",
+  "account_tx": "2x6qB3fHynkomMvKNhT3HyFpGDzzUZmfEhMDq3iidccSyQPw8jz1diShWJmqzvA4mq7u4vctVKLwuJsRGWy3TCoW",
+  "mint_tx": "5fcKvSTngvagexqBeXX6bbsLt5GRVp2EzCSdWYqjeqtwXL2Vwzgh99xdPbLM2VrJPvWkD32DhLHVGd7aV1oPr1dS",
+  "solana_explorer_mint": "https://explorer.solana.com/address/Ei1zkV4tqvA2uBuQJWvAAsrUk1NtskQvAPKndGeN4EDX?cluster=devnet",
+  "timestamp": "2026-10-26 16:54:57 UTC"
+}
